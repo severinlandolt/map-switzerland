@@ -4,5 +4,5 @@ Shapefiles, TopoJSON, and GeoJSON with boundaries of the cantons of Switzerland 
 
 > Projected in `wgs84`
 
-###Resolutions
+### Resolutions
 ![resolutions](https://raw.githubusercontent.com/severinlandolt/map-switzerland/main/img/resolutions.png)
